@@ -1,1 +1,1 @@
-# Printer
+# Simple Printer program.
